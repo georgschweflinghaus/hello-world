@@ -1,2 +1,5 @@
 # hello-world
-Just my first test repository
+
+Hi there,
+
+this is me writing along some words for this tutorial.
